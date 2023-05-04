@@ -1,0 +1,29 @@
+{
+  "name": "exploring-the-world",
+  "version": "1.0.0",
+  "description": "My Food App",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirozSkAhmad/Namaste-React-6.git"
+  },
+  "author": "Firoz Shaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FirozSkAhmad/Namaste-React-6/issues"
+  },
+  "homepage": "https://github.com/FirozSkAhmad/Namaste-React-6#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

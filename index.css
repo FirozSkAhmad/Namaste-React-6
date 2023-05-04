@@ -1,0 +1,53 @@
+.nav-con{
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.img-con{
+    width: 100px;
+}
+
+.img-con>img{
+    width: 100%;
+}
+
+.nav-items>ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    margin-right: 20px;
+}
+
+.nav-items>ul>li{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.res-card{
+    width: 200px;
+    padding: 5px;
+    background-color:#f0f0f0;
+}
+
+.res-card>img{
+    width: 100%;
+}
+
+.res-con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.input-con{
+    margin: 10px;
+}
+
+.searchContainer{
+    display: flex;
+    gap: 10px;
+}
